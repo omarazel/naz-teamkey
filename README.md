@@ -1,2 +1,0 @@
-# naz-teamkey
-activation key
